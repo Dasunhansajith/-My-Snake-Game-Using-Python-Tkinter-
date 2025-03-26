@@ -1,1 +1,1 @@
-# -My-Snake-Game-Using-Python-Tkinter-
+I'm excited to share my latest project—a classic Snake Game built using Python and Tkinter! This project helped me strengthen my skills in game logic, event handling, and UI design while having fun coding an interactive experience.
